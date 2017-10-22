@@ -5,4 +5,4 @@
 
 ----------------------------------
 
-Relevant files for changes made include [admin2.html], [new.js], [sidebar.css], and [student.html] which displays the student's individual information.
+Relevant files for changes made include <code>admin2.htm</code>, <code>new.js</code>, <code>sidebar.css</code>, and <code>student.html</code> (which displays the student's individual information.)
